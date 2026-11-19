@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Animated Typing SVG Banner -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Santanu+Sahu+%7C+BCA+Student;Android+Engineering+%26+Systems+Programming;Network+Utilities+%26+Cybersecurity+Tooling" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 3D-style pill & badge row -->
 <a href="https://x.com/@ArtSahusantunu8">
   <img src="https://img.shields.io/badge/X-@ArtSahusantunu8-090D16?style=for-the-badge&logo=x&logoColor=38BDF8" alt="X Profile" />
 </a>
@@ -40,29 +38,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## ⌨️ Live Code Stream
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=santunsahu&theme=radical&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=santunsahu&theme=radical&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=santunsahu&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Animated Contribution Snake (requires GitHub Actions workflow in profile repo) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/santunsahu/santunsahu/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=900&color=7EE787&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=135&lines=%23include+%3Csystem%2Fsecurity.h%3E+%2F%2F+Santanu+Sahu;void+architect_system()+%7B+init_kernel_net()%3B+%7D;Stack+skills%5B%5D+%3D+%7B%22C%22%2C+%22C%2B%2B%22%2C+%22Python%22%2C+%22Java%22%2C+%22Kotlin%22%7D%3B;printf(%22%5BSTATUS%5D+Building+scalable+tools...%5Cn%22)%3B" alt="Live Code Typing" />
+  </a>
 </div>
 
 ---
 
-<!-- Animated Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0284C7&height=110&section=footer" width="100%" alt="Footer Wave" />
 </div>
