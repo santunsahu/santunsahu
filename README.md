@@ -29,14 +29,14 @@
 
 <br/>
 
-### 3D Tech Stack
+### Language 
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,linux,git,github,vscode&theme=dark&perline=9" alt="3D Tech Stack" />
 
 <br/>
 <br/>
 
-### Live Code Stream
+### Live introduction
 
 <div align="center">
   <a href="https://git.io/typing-svg">
