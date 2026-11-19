@@ -31,7 +31,7 @@
 
 ### Language 
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,linux,git,github,vscode&theme=dark&perline=9" alt="3D Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,java,python,kotlin,linux,git,github,vscode&theme=dark&perline=9" alt="3D Tech Stack" />
 
 <br/>
 <br/>
